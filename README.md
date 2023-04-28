@@ -24,7 +24,7 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
   </p>
     
-  <Br>
+<!--   <Br>
   <hr>
   <Br>
   <h1 align="center">Skills I have! 🤸‍♂</h1>
@@ -90,3 +90,4 @@
   <Br>
   <h1>Thank You! 🤵 </h1>
   <Br>
+ -->
